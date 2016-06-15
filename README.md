@@ -22,7 +22,9 @@ e = energy
 c = heat capacity
 q = binder ratio
 
-Code written as part of a project in the course KJM9610 - Properties of molecules.
+Code written as part of a project in the course KJM9610 - Properties of molecule, see UiO webpage for more information:
+
+http://www.uio.no/studier/emner/matnat/kjemi/KJM9610/index-eng.html
 
 Feel free to contact me here on GitHub if you have any questions.
 
