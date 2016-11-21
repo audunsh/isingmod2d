@@ -21,9 +21,13 @@ Typical usage:
 
 
 m = magnetization
+
 s = susceptibility
+
 e = energy
+
 c = heat capacity
+
 q = binder ratio
 
 Code written as part of a project in the course KJM9610 - Properties of molecule, see UiO webpage for more information:
